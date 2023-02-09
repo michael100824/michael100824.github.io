@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Michael Zhang</title>
+    <link>https://michael100824.github.io/projects/</link>
+    <description>Recent content in Projects on Michael Zhang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 22 Jan 2022 17:25:49 -0500</lastBuildDate><atom:link href="https://michael100824.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

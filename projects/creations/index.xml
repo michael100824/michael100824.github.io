@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Creations on Michael Zhang</title>
+    <link>https://michael100824.github.io/projects/creations/</link>
+    <description>Recent content in Creations on Michael Zhang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Jan 2020 15:00:28 +0000</lastBuildDate><atom:link href="https://michael100824.github.io/projects/creations/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Udacity Data Engineering Nano Degree Projects</title>
+      <link>https://michael100824.github.io/projects/creations/udacity_data_engineering_nano_degree_projects/</link>
+      <pubDate>Sat, 22 Jan 2022 17:25:49 -0500</pubDate>
+      
+      <guid>https://michael100824.github.io/projects/creations/udacity_data_engineering_nano_degree_projects/</guid>
+      <description>The course includes 5 projects listed below.
+  Data Modeling Learn to create relational and NoSQL data models to fit the diverse needs of data consumers. Use ETL to build databases in PostgreSQL and Apache Cassandra.
+  Cloud Data Warehouses Sharpen your data warehousing skills and deepen your understanding of data infrastructure. Create cloud-based data warehouses on Amazon Web Services (AWS).
+  Spark and Data Lakes Understand the big data ecosystem and how to use Spark to work with massive datasets.</description>
+    </item>
+    
+    <item>
+      <title>Project_test2</title>
+      <link>https://michael100824.github.io/projects/creations/project_test2/</link>
+      <pubDate>Mon, 17 Jan 2022 13:37:28 -0500</pubDate>
+      
+      <guid>https://michael100824.github.io/projects/creations/project_test2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

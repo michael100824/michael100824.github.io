@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Michael Zhang</title>
+    <title>Tags on Michael</title>
     <link>https://michael100824.github.io/tags/</link>
-    <description>Recent content in Tags on Michael Zhang</description>
+    <description>Recent content in Tags on Michael</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 22 Jan 2022 17:25:49 -0500</lastBuildDate><atom:link href="https://michael100824.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
@@ -22,42 +22,6 @@
       <pubDate>Sat, 22 Jan 2022 17:25:49 -0500</pubDate>
       
       <guid>https://michael100824.github.io/tags/etl/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>in</title>
-      <link>https://michael100824.github.io/tags/in/</link>
-      <pubDate>Mon, 17 Jan 2022 13:37:28 -0500</pubDate>
-      
-      <guid>https://michael100824.github.io/tags/in/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>techtags</title>
-      <link>https://michael100824.github.io/tags/techtags/</link>
-      <pubDate>Mon, 17 Jan 2022 13:37:28 -0500</pubDate>
-      
-      <guid>https://michael100824.github.io/tags/techtags/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>used</title>
-      <link>https://michael100824.github.io/tags/used/</link>
-      <pubDate>Mon, 17 Jan 2022 13:37:28 -0500</pubDate>
-      
-      <guid>https://michael100824.github.io/tags/used/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>website</title>
-      <link>https://michael100824.github.io/tags/website/</link>
-      <pubDate>Mon, 17 Jan 2022 13:37:28 -0500</pubDate>
-      
-      <guid>https://michael100824.github.io/tags/website/</guid>
       <description></description>
     </item>
     

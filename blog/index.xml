@@ -6,15 +6,47 @@
     <description>Recent content in Blogs on Michael</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Jan 2009 14:09:10 +0000</lastBuildDate><atom:link href="https://michael100824.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 25 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://michael100824.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Forcing Visits to use SSL</title>
-      <link>https://michael100824.github.io/blog/force-ssl/</link>
-      <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
+      <title>DE上岸一年记录（下）</title>
+      <link>https://michael100824.github.io/blog/de_exp_3/</link>
+      <pubDate>Thu, 25 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://michael100824.github.io/blog/force-ssl/</guid>
-      <description>Intro Doesn&amp;rsquo;t matter whether it&amp;rsquo;s a CakePHP app for a client, your own personal CMS, or any other web based application. If your passing around passwords or other sensitive info you should really implement SSL. SSL provides 2 main perks to your visitors.
- First it encrypts all communication that flies across the web. This prevents curious or devious billies from getting your secrets. Secondly it ensures to the user that your server is in fact who it claims, and not a nasty &amp;lsquo;man in the middle&amp;quot; attack.</description>
+      <guid>https://michael100824.github.io/blog/de_exp_3/</guid>
+      <description>上回说到我无心插柳投简历居然中了一家美国的startup。
+面试的时候才知道大多数工程师组都在中国，同事也都是中国人，所以整个面试都是在北美时间晚上进行的。同事轮还装模作样都用英文问答，到了vp轮就直接上中文了。进了组之后大家为了方便交流，除非有外国同事在，slack和zoom那肯定都是中文了。
+虽然说整个公司是美国公司，但是团队文化其实是由团队里的人决定的。
+最先让我感受到和加拿大公司不同的是大家互相的称呼，对于有英文名的同事一般都会叫英文名，而对于上级或者senior的同事，大家通常都叫x总、x哥、x姐。虽然没有人会强制你这么说，但是在罗马要像罗马人一样去做。
+第二个让我感觉不一样的点是同事之间的关系很不一样。之前在加拿大的公司，包括对于现在公司的外国同事，关系就只会停留在同事关系。但是和同组的中国同事关系会更加密切，我们有微信群，主要用来插科打诨和发不能在slack上说的，会互相评论朋友圈，离职之后还会互相询问近况等等。这一点完全见仁见智吧。
+第三个让我感触特别深的是公司的加班文化。因为公司是全球公司，在中国、欧洲、美东、美西都有办公室，所以24小时总会有人在线的。很多时候为了需要协调各地的时间开会，就会在正常下班后还得开会。而且因为是永久居家办公，上下班的概念、生活和工作的界限变得越来越模糊了。我也从坚定的wfh党转为坚定的hybrid党（如果天天要去办公室也算了吧哈哈）。搞de的朋友肯定知道，有的时候一个data pipeline崩了，马上就得修。另外中国同事多的公司，被动加班的情况会更多，就像你在高速上本来跑着100迈挺好的，人家都超速，你也不得不超速。人家女朋友生气都是因为各种各样的原因，我女朋友生气只会因为我工作时间太长了。
+最近因为一个紧急的项目，美国和国内的de日夜轮着来。为了要及时同步信息，不得不早上同步一次，晚上同步一次，以至于我上一周一整周都没怎么出门，完全过着起床上班，下班睡觉的生活，想不到人在加拿大还得007。我自认为是忍耐力比较强的人了，在这种工作环境下也不由自主的萌发出提桶跑路的想法。分享最近读到前可口可乐CEO Brian Dyson关于人生五个球演讲(原文在第二张图)，非常值得在赶路的间隙停下来好好思考一下，我们到底需要的是怎样的人生呢？</description>
+    </item>
+    
+    <item>
+      <title>DE上岸一年记录（中）</title>
+      <link>https://michael100824.github.io/blog/de_exp_2/</link>
+      <pubDate>Wed, 10 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://michael100824.github.io/blog/de_exp_2/</guid>
+      <description>书接上回，基于技术栈和个人兴趣的因素，果断加入了某公司的finance部门，负责把原始数据清洗整理好制作成上市公司的报告发给各大投行以及上市公司本身。用到的技术包括snowflake, aws, databricks, matillion, pyspark, looker, dbt。面试的时候也问过我是不是会这些技术，有些技术确实没学过，心里慌得一。虽然我普通，但是我自信啊，扯扯之前用过类似的技术做过小项目，最后留下一句倔强的不会可以学。
+我遇到的第一个任务就是建一个基于looker的dashboard。吹过的牛总要兑现，只能赶紧先学。除了YouTube和Udemy之外，最好的资源就是同事的代码。刚入职的时候多看同事的代码多问问题，不仅能找到一个合理的理由和去认识同事，更能给老板和同事留下一个热爱学习热爱工作的好印象。第一关靠着考final前的拼劲和同事的carry算是顺利通过。
+几周摸清套路后就变的熟练了，也开始依葫芦画瓢写一些matillion和dbt的workflow，然后用airflow去触发这些workflow。尽管matillion和airflow都提供了非常漂亮的流程图，但是一方面记不住，另一方面用了哪些表，改了哪些表仍然需要每次点开才知道。我喜欢找一张大纸，手画流程图，并且加上表信息和自己的备注。虽然看上去笨，但是对于我来说确实很有效。
+要说de最大的“敌人”是谁，da敢说第二，就没人敢说第一。往往da一句话说这个数据不太对，de就得吭哧吭哧查一天。记得最痛苦的一次是某个报告十几步，几十个表，查的天昏地暗终于发现是上游给的数据有问题。查到问题的那一刻感觉整个世界都亮了。曾经天真的以为把data pipeline建好之后就万事大吉了，只能说这种想法图样图森破，维护才是噩梦的开始。
+发现LinkedIn title改了之后被HR找的机会多了起来。圣诞节之前那段时间不是很忙，抱着免费练面试的机会，两周约了七、八个面试。拒了几个，被拒了几个，最后又是极限二选一。不过这次毫无难度，直接选了一个美国的startup。平心而论，这份工作的精彩程度远远超出了我的想象。
+欲知后事如何，倾听下回分解。</description>
+    </item>
+    
+    <item>
+      <title>DE上岸一年记录（上）</title>
+      <link>https://michael100824.github.io/blog/de_exp_1/</link>
+      <pubDate>Mon, 08 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://michael100824.github.io/blog/de_exp_1/</guid>
+      <description>最近正好是转行做data engineer一周年，回头看这一年，酸甜苦辣各种滋味都有。在跑数据的间隙写点东西，既是对自己过去一年的总结，也是抛砖引玉希望给想入行朋友们一些启发。全文🈚️广，放心食用。
+我本科的时候不懂条条大路通代码的道理，闷头选了多大engsci的infrastruture的大坑，研究生的时候才入坑data。毕业了本想找个data scientist的工作，可能因为太菜所以就找了个data analyst的工作先干着。 没想到一干就是两年，这其中有疫情的原因，也有需要移民的原因，最大的原因还是因为自己太懒了。这份工作用我自己的话来说就是熟练了🐒都能干，唯一感觉有长进的可能就是写sql和python越来越熟练了。
+data这条行业是很有前景的，但是data science这个赛道实在是太挤了。查了相关资料后发现data engineer其实更适合自己。作为典型的 ISTJ，我不擅长与人打交道，也不擅长说故事，这两点恰恰是data scientist更需要的。我比较适合一个人一杯咖啡的敲代码。我之后在某网课上过一个data engineering的证书，给他打个3.5/5吧。确实了解了一些基础的知识，但是似乎这些要么是之前也多多少少了解过，要么就是属于不太会用到的理论知识又增加了。作业的话比学校里的肯定更有针对性，对工作也有那么点作用，但是作用不是很大。这个课对于完全没有相关project经验的朋友来说还是值得推荐的，至少可以让简历更丰富一点。
+云计算其实对于DE来说其实也挺重要的，我之前的工作完全没有接触。我想到最简单的可以证明我可以的方法就是考个证书。AWS Solution Architect Associate必然是首选，Udemy上买了个课和一套题之后直接开干。因为我想以最快的速度拿到证书，很多该动手操作的部分都略过了（很不应该），最后靠背知识点和反复刷错题，第一次考压线通过。
+靠着海投和朋友refer，拿到几个面试，面试的题都不是很难，主要侧重还是在sql和python，所以面试感觉都挺轻松的。也许是运气好，连题都没刷就直接顺利拿了两个offer，比较了一下选了个偏finance一点的公司。</description>
     </item>
     
   </channel>

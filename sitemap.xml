@@ -10,19 +10,23 @@
     <lastmod>2020-01-07T16:49:15+00:00</lastmod>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://michael100824.github.io/projects/contributions/deploy-triggers/</loc>
-    <priority>0.8</priority>
-  </url><url>
     <loc>https://michael100824.github.io/projects/creations/udacity_data_engineering_nano_degree_projects/</loc>
     <lastmod>2022-01-22T17:25:49-05:00</lastmod>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://michael100824.github.io/projects/contributions/shields-docker/</loc>
-    <lastmod>2020-01-07T17:09:26+00:00</lastmod>
+    <loc>https://michael100824.github.io/blog/</loc>
+    <lastmod>2022-08-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://michael100824.github.io/blog/de_exp_3/</loc>
+    <lastmod>2022-08-25T00:00:00+00:00</lastmod>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://michael100824.github.io/projects/contributions/schema-org/</loc>
-    <lastmod>2020-01-07T17:08:21+00:00</lastmod>
+    <loc>https://michael100824.github.io/blog/de_exp_2/</loc>
+    <lastmod>2022-08-10T00:00:00+00:00</lastmod>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>https://michael100824.github.io/blog/de_exp_1/</loc>
+    <lastmod>2022-08-08T00:00:00+00:00</lastmod>
     <priority>0.8</priority>
   </url><url>
     <loc>https://michael100824.github.io/tags/data-engineering/</loc>
@@ -38,51 +42,9 @@
     <loc>https://michael100824.github.io/tags/</loc>
     <lastmod>2022-01-22T17:25:49-05:00</lastmod>
   </url><url>
-    <loc>https://michael100824.github.io/tags/docker/</loc>
-    <lastmod>2020-01-07T17:09:26+00:00</lastmod>
-  </url><url>
-    <loc>https://michael100824.github.io/tags/javascript/</loc>
-    <lastmod>2020-01-07T17:09:26+00:00</lastmod>
-  </url><url>
-    <loc>https://michael100824.github.io/tags/json/</loc>
-    <lastmod>2020-01-07T17:09:26+00:00</lastmod>
-  </url><url>
-    <loc>https://michael100824.github.io/tags/node.js/</loc>
-    <lastmod>2020-01-07T17:09:26+00:00</lastmod>
-  </url><url>
-    <loc>https://michael100824.github.io/tags/rest-apis/</loc>
-    <lastmod>2020-01-07T17:09:26+00:00</lastmod>
-  </url><url>
     <loc>https://michael100824.github.io/</loc>
     <lastmod>2018-02-10T18:56:13-05:00</lastmod>
     <priority>1</priority>
-  </url><url>
-    <loc>https://michael100824.github.io/tags/apache/</loc>
-    <lastmod>2009-01-01T14:09:10+00:00</lastmod>
-  </url><url>
-    <loc>https://michael100824.github.io/blog/</loc>
-    <lastmod>2009-01-01T14:09:10+00:00</lastmod>
-  </url><url>
-    <loc>https://michael100824.github.io/blog/force-ssl/</loc>
-    <lastmod>2009-01-01T14:09:10+00:00</lastmod>
-  </url><url>
-    <loc>https://michael100824.github.io/tags/redirect/</loc>
-    <lastmod>2009-01-01T14:09:10+00:00</lastmod>
-  </url><url>
-    <loc>https://michael100824.github.io/tags/rewrite/</loc>
-    <lastmod>2009-01-01T14:09:10+00:00</lastmod>
-  </url><url>
-    <loc>https://michael100824.github.io/tags/ssl/</loc>
-    <lastmod>2009-01-01T14:09:10+00:00</lastmod>
-  </url><url>
-    <loc>https://michael100824.github.io/tags/web-development/</loc>
-    <lastmod>2009-01-01T14:09:10+00:00</lastmod>
-  </url><url>
-    <loc>https://michael100824.github.io/tags/bamboo/</loc>
-  </url><url>
-    <loc>https://michael100824.github.io/tags/java/</loc>
-  </url><url>
-    <loc>https://michael100824.github.io/tags/jquery/</loc>
   </url><url>
     <loc>https://michael100824.github.io/search/</loc>
     <priority>0.1</priority>

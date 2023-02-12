@@ -80,6 +80,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "weight (lower get more visibility)", name: "weight", widget: "number", valueType: float, step: 10, min: 0, max: 1000}
       - {label: "Sitemap", name: "sitemap", widget: "object", field: {label: weight, name: weight, widget: "number", valueType: float, step: 0.1, min: 0.0, max: 1.0}}
       - {label: "Body", name: "body", widget: "markdown"}
+
        
   - name: 'settings'
     label: 'Settings'
@@ -119,6 +120,7 @@ collections: # A list of collections the CMS should be able to edit
           
               - { label: 'showSkills', name: 'showSkills', widget: 'boolean', required: false }
               - { label: 'showProjects', name: 'showProjects', widget: 'boolean', required: false }
+              - { label: 'showBlogs', name: 'showBlogs', widget: 'boolean', required: false }
               - { label: 'showOpenSource', name: 'showOpenSource', widget: 'boolean', required: false }
               - { label: 'showPublications', name: 'showPublications', widget: 'boolean', required: false }
               - { label: 'showExperience', name: 'showExperience', widget: 'boolean', required: false }
